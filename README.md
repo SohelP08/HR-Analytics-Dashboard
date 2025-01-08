@@ -5,7 +5,9 @@ Sohel S. Patel.
 Objective
 
 The project aims to analyze HR data to uncover factors influencing employee attrition and provide actionable insights. This dashboard serves as a data-driven tool for HR professionals to improve retention strategies and optimize workforce planning.
-Help an organization to improve employee performance and improve employee retention ( reduce attrition ) by creating a HR Analytics Dashboard Using Microsoft Power BI.________________________________________
+Help an organization to improve employee performance and improve employee retention ( reduce attrition ) by creating a HR Analytics Dashboard Using Microsoft Power BI.
+
+________________________________________
 
 Key Features
 
@@ -22,6 +24,7 @@ o	Cleaned raw HR dataset for consistency and accuracy using Power BI's Power Que
 o	Cleaned raw data by removing null and duplicate values.
 o	Created new calculated columns to generate precise insights.
 o	Ensured data consistency to improve analysis accuracy.
+
 ________________________________________
 
 Technologies Used
