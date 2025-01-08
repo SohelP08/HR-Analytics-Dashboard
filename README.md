@@ -12,17 +12,29 @@ ________________________________________
 Key Features
 
 •	Interactive Dashboard:
+
 o	Built using Power BI for real-time exploration of HR data.
+
 o	Includes filters for age, department, performance ratings, and satisfaction levels to perform detailed analyses.
+
 •	Visualizations:
+
 o	Attrition trends by demographics (age, gender, marital status).
+
 o	Department-specific attrition analysis.
+
 o	Relationship between performance ratings and attrition.
+
 o	Insights into work-life balance and job satisfaction.
+
 •	Data Cleaning & Preprocessing:
+
 o	Cleaned raw HR dataset for consistency and accuracy using Power BI's Power Query.
+
 o	Cleaned raw data by removing null and duplicate values.
+
 o	Created new calculated columns to generate precise insights.
+
 o	Ensured data consistency to improve analysis accuracy.
 
 ________________________________________
